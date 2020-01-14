@@ -9,6 +9,7 @@
         "download",
         "laravel"
       ],
+    "minimum-stability": "dev",
     "require-dev": {},
     "authors": [
         {

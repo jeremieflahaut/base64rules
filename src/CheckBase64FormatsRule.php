@@ -2,6 +2,7 @@
 
 namespace Jflahaut\Base64rules;
 
+
 use Illuminate\Contracts\Validation\Rule;
 use Illuminate\Support\Facades\Validator;
 

@@ -2,6 +2,7 @@
 
 namespace Jflahaut\Base64rules;
 
+
 use Illuminate\Contracts\Validation\Rule;
 
 class CheckBase64Rule implements Rule

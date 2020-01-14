@@ -18,7 +18,7 @@
         }
     ],
     "require": {
-        "Illuminate/Support": "^5.8"
+        "Illuminate/Support": ">=5.8"
     },
     "autoload": {
         "psr-4": {

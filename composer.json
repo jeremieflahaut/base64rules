@@ -1,0 +1,27 @@
+{
+    "name": "jflahaut/base64rules",
+    "description": "Laravel validators for base64",
+    "keywords": [
+        "base64",
+        "validation",
+        "encoded",
+        "images",
+        "download",
+        "laravel"
+      ],
+    "require-dev": {},
+    "authors": [
+        {
+            "name": "Jérémie Flahaut",
+            "email": "jeremieflahaut@gmail.com"
+        }
+    ],
+    "require": {
+        "Illuminate/Support": "^5.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Jflahaut\\Base64rules\\": "src/"
+        }
+    }
+}
